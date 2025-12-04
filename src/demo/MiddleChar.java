@@ -1,7 +1,7 @@
 package demo;
 public class MiddleChar {
     public static void main(String[] args) {
-        String word = "Sandeeep"; 
+        String word = "12345677"; 
         int len = word.length();
         int mid = len / 2;
         if (len % 2 == 0) {  
